@@ -252,3 +252,22 @@ footer {
     color: #c4c4d4;
 }
 
+.project-image {
+    width: 100%;
+    max-height: 320px;
+    object-fit: contain;
+    display: block;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background: #22233d;
+}
+.project-image {
+    width: 100%;
+    max-height: 320px;
+    object-fit: contain;
+    display: block;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background: #22233d;
+}
+
