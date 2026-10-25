@@ -342,4 +342,32 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+.experience-card {
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 25px;
+    background: #1b1b32;
+    border: 1px solid #383451;
+    border-radius: 12px;
+    text-align: left;
+}
+
+.experience-card h3 {
+    color: #b49aff;
+    margin-bottom: 8px;
+}
+
+.experience-card h4 {
+    margin-bottom: 8px;
+}
+
+.experience-type {
+    color: #b8b4cc;
+    font-size: 14px;
+    margin-bottom: 16px;
+}
+
+.experience-card p {
+    line-height: 1.7;
+}
 
